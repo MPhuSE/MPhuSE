@@ -1,29 +1,70 @@
-# Hi 👋, I'm Minh Phu
+<div align="center">
 
-### IT Student from Vietnam
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:164E63,100:22D3EE&height=220&section=header&text=MINH%20PHU&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=IT%20Student%20%20%7C%20%20Backend%20%26%20Full-Stack%20Development&descSize=17&descAlignY=60" alt="Minh Phu — IT student focused on backend and full-stack development" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MPhuSE&label=Profile views&color=0e75b6&style=flat" alt="MPhuSE" /> </p>
+### From ideas to working products.
 
-- 🔭 I'm currently working on **Building small real-world projects (e-commerce, warehouse systems) to improve full-stack skills.**
+IT student from Vietnam, building practical applications and learning how to design reliable systems.
 
-- 🌱 I'm currently learning **System design, backend architecture, and improving skills in development**
+<a href="https://github.com/MPhuSE"><img src="https://img.shields.io/badge/GitHub-MPhuSE-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/lephune/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s%20connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:lephu422@hotmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Minh Phu" /></a>
 
-- 👯 I'm looking to collaborate on **Open source projects related to backend systems, APIs, and full-stack apps**
+<br /><br />
 
-- 🤝 I'm looking for help with **System design, microservices architecture, and performance optimization**
+<img src="https://komarev.com/ghpvc/?username=MPhuSE&label=PROFILE+VIEWS&color=0891b2&style=flat-square" alt="Profile views" />
 
-- 💬 Ask me about **JavaScript, TypeScript, Node.js, NestJS, React, Express, MongoDB, SQL, Java,...**
+</div>
 
-- 📫 How to reach me **lephu422@hotmail.com**
+## 👋 A little about me
 
-- ⚡ Fun fact **I enjoy building real-world projects and turning ideas into working products**
+I enjoy turning everyday problems into software that people can use. My current focus is backend development, with frontend work to bring complete products to life.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/MPhuSE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MPhuSE" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lephune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lephune" height="30" width="40" /></a>
-</p>
+- **Building:** small e-commerce and warehouse management projects to strengthen my full-stack skills.
+- **Learning:** system design, backend architecture, and performance optimization.
+- **Exploring:** microservices and the trade-offs behind different architectural choices.
+- **Open to:** collaborating on backend systems, APIs, and full-stack open-source projects.
+- **Happy to discuss:** JavaScript, TypeScript, Node.js, NestJS, React, Express, databases, and Java.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+## 🧰 Languages & tools
 
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp&theme=dark" alt="JavaScript, TypeScript, Java, Python, C++" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,django,flask&theme=dark" alt="Node.js, NestJS, Express, Spring, Django, Flask" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="React, HTML, CSS, Tailwind CSS" />
+
+**Databases & infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker" />
+
+## 🎯 Current focus
+
+| Area | What I’m working toward |
+| :--- | :--- |
+| Backend engineering | Clear API design, maintainable business logic, and reliable data handling |
+| System design | Understanding scalability, service boundaries, and architectural trade-offs |
+| Full-stack development | Connecting useful interfaces with well-structured backend services |
+| Performance | Learning how to measure bottlenecks and improve application efficiency |
+
+## 🤝 Let’s build something useful
+
+Have an interesting project or want to learn together? I’d love to connect, exchange ideas, and contribute.
+
+**[Email me](mailto:lephu422@hotmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/lephune/)** · **[Explore my repositories](https://github.com/MPhuSE?tab=repositories)**
+
+<div align="center">
+
+<br />
+
+*Build. Learn. Improve. Repeat.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:164E63,100:22D3EE&height=100&section=footer" alt="Decorative footer" />
+
+</div>
